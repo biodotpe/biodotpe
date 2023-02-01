@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre Padilla-Huamantinco</h1>
 <h3 align="center">An Advocate of Open Science Hardware and passionate Bioengineer from Peru</h3>
 
-🔭 I’m currently working on [LIBRE hub](https://github.com/LIBREhub), [Biofilm Analyzing Software](https://github.com/Biofilm-Project/BAS), and [Microfluidics 101](https://github.com/ufluidics101) / Past projects: [VTracker](https://github.com/OrsonMM/VTraker), [Gorgas tracker](https://github.com/healthinnovation/gorgas_tracker)
+🔭 I’m currently working on [Open Microfluidics Workstation](https://github.com/wenzel-lab/open-microfluidics-workstation), [LIBRE hub](https://github.com/LIBREhub), and [Microfluidics 101](https://github.com/ufluidics101) / Past projects: [Biofilm Analyzing Software](https://github.com/Biofilm-Project/BAS), [VTracker](https://github.com/OrsonMM/VTraker), [Gorgas tracker](https://github.com/healthinnovation/gorgas_tracker)
 
 🐳  I’m currently part of:
 - [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering (Chile)
