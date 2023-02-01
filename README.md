@@ -6,7 +6,6 @@
 🐳  I’m currently part of:
 - [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering (Chile)
 - [Health Innovation Lab](https://github.com/healthinnovation), Institute of Tropical Medicine Alexander von Humboldt (Peru)
-- [Single-Molecule Biophysics Lab](https://investigacion.cayetano.edu.pe/catalogo/biotecnologia/lmi), Universidad Peruana Cayetano Heredia (Peru)
 - [Community Council](https://forum.openhardware.science/t/announcement-of-2021-gosh-community-council/2949), [Gathering for Open Science Hardware Inc.](https://openhardware.science/) (USA)
 - [Peru Node](https://regosh.libres.cc/en/projects/), reGOSH (Peru)
 
