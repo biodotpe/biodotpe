@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pierre Padilla-Huamantinco</h1>
-<h3 align="center">An Advocate of Open Science Hardware and passionate Bioengineer from Peru</h3>
+<h3 align="center">An Advocate of Open Science Hardware from Peru</h3>
 
-🔭 I’m currently working on [Open Microfluidics Workstation](https://github.com/wenzel-lab/open-microfluidics-workstation), [LIBRE hub](https://github.com/LIBREhub), and [Microfluidics 101](https://github.com/ufluidics101) / Past projects: [Biofilm Analyzing Software](https://github.com/Biofilm-Project/BAS), [VTracker](https://github.com/OrsonMM/VTraker), [Gorgas tracker](https://github.com/healthinnovation/gorgas_tracker)
+🔭 I’m currently working on the following
+- Open-Source Hardware:
+  - [Open Microfluidics Workstation](https://github.com/wenzel-lab/open-microfluidics-workstation) - Role: Developer
+  - [Strobe-Enhanced Microscope Station](https://github.com/LIBREhub/3_Levels_Stage) - Role: Developer
+- Websites:
+  - [LIBRE hub](https://github.com/LIBREhub) - Role: Developer and Maintainer
+  - [GitBuilding for Beginners](https://github.com/LIBREhub/gitbuilding-for-beginners) - Role: Developer and Maintainer
+  - [Microfluidics 101](https://github.com/ufluidics101) - Role: Developer and Maintainer
+
+🗃️ Past projects
+- Open-Source Software:
+  - [Biofilm Analyzing Software](https://github.com/Biofilm-Project/BAS) - Single-Molecule Biophysics Lab, Universidad Peruana Cayetano Heredia (Peru)
+  - [VTracker](https://github.com/OrsonMM/VTraker) - Health Innovation Lab, Universidad Peruana Cayetano Heredia (Peru)
+- Open-Source Hardware:
+  - [Gorgas tracker](https://github.com/healthinnovation/gorgas_tracker) - Health Innovation Lab, Universidad Peruana Cayetano Heredia (Peru)
 
 🐳  I’m currently part of:
 - [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering (Chile)
@@ -26,10 +40,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> <a href="https://www.repetier.com/" target="_blank"> <img src="https://www.repetier-server.com/logo-monitor.svg" alt="repetier" width="30" height="30"/> </a> </p>
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/biodotpe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biodotpe" /></a></p><br><br>
-
+-->
 <!--
 **biodotpe/biodotpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
