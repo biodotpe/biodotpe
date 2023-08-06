@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pierre Padilla-Huamantinco</h1>
 <h3 align="center">An Advocate of Open Science Hardware from Peru</h3>
 
-🔭 I’m currently working on the following
+🔭 I’m currently working on
 - Open-Source Hardware:
   - [Open Microfluidics Workstation](https://github.com/wenzel-lab/open-microfluidics-workstation) - Role: Developer
-  - [Strobe-Enhanced Microscope Station](https://github.com/LIBREhub/3_Levels_Stage) - Role: Developer
+  - [Strobe-Enhanced Microscopy Station](https://github.com/LIBREhub/3_Levels_Stage) - Role: Developer
 - Websites:
   - [LIBRE hub](https://github.com/LIBREhub) - Role: Developer and Maintainer
   - [GitBuilding for Beginners](https://github.com/LIBREhub/gitbuilding-for-beginners) - Role: Developer and Maintainer
@@ -13,10 +13,13 @@
 🗃️ Past projects
 - Open-Source Software:
   - [Biofilm Analyzing Software](https://github.com/Biofilm-Project/BAS) - Single-Molecule Biophysics Lab, Universidad Peruana Cayetano Heredia (Peru)
-  - [VTracker](https://github.com/OrsonMM/VTraker) - Health Innovation Lab, Universidad Peruana Cayetano Heredia (Peru)
+  - [VTracker](https://github.com/OrsonMM/VTraker) - Personal Collaboration
 - Open-Source Hardware:
   - [Gorgas tracker](https://github.com/healthinnovation/gorgas_tracker) - Health Innovation Lab, Universidad Peruana Cayetano Heredia (Peru)
-
+  - [Build Free Open-Source Hardware](https://github.com/FOSH-following-demand) - Personal Collaboration 
+- Websites:
+  - [COVID-19 Peru](https://github.com/jincio/COVID_19_PERU) - Personal Collaboration
+    
 🐳  I’m currently part of:
 - [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering (Chile)
 - [Health Innovation Lab](https://github.com/healthinnovation), Institute of Tropical Medicine Alexander von Humboldt (Peru)
@@ -27,9 +30,7 @@
 
 👯 I’m looking to collaborate on **interdisciplinary projects**
 
-😄 Pronouns: he / him
-
-⚡ Fun fact: **I am an amateur juggler**
+😄 Pronouns: he/him
 
 📫 How to reach me: **pgpadilla@uc.cl**
 
