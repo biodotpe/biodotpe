@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on
 - Open-Source Hardware:
-  - [Open Microfluidics Workstation](https://github.com/wenzel-lab/open-microfluidics-workstation) - Role: Developer
+  - [Modular Microfluidics Workstation Controller](https://github.com/wenzel-lab/open-microfluidics-workstation) - Role: Developer
   - [Strobe-Enhanced Microscopy Station](https://github.com/LIBREhub/3_Levels_Stage) - Role: Developer
 - Websites:
   - [LIBRE hub](https://github.com/LIBREhub) - Role: Developer and Maintainer
