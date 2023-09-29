@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pierre Padilla-Huamantinco</h1>
-<h3 align="center">An Advocate of Open Science Hardware from Peru</h3>
+<h1 align="center">Hi 👋, I'm Pierre Padilla-Huamantinco </h1>
+<h3 align="center">An Advocate of Open Science Hardware </h3>
 
 🔭 I’m currently working on
 - Open-Source Hardware:
