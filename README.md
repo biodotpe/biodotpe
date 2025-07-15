@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on
 - Open-Source Hardware:
-  - [Modular Microfluidics Workstation Controller](https://github.com/wenzel-lab/open-microfluidics-workstation) - Role: Co-Developer
+  - [Modular Microfluidics Workstation Controller](https://github.com/wenzel-lab/modular-microfluidics-workstation-controller/tree/documentation/beta) - Role: Co-Developer
   - [Strobe-Enhanced Microscopy Stage](https://github.com/LIBREhub/3_Levels_Stage) - Role: Co-Developer
   - [Open-Source Syringe Pumps](https://github.com/wenzel-lab/syringe-pumps-and-controller/tree/docu-v2) - Role: Co-Developer
 
