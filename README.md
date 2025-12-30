@@ -3,9 +3,10 @@
 
 🔭 I’m currently working on
 - Open-Source Hardware:
-  - [Modular Microfluidics Workstation Controller](https://github.com/wenzel-lab/modular-microfluidics-workstation-controller/tree/documentation/beta) - Role: Co-Developer
-  - [Strobe-Enhanced Microscopy Stage](https://github.com/LIBREhub/3_Levels_Stage) - Role: Co-Developer
+  - [Modular Microfluidics Workstation Controller](https://github.com/wenzel-lab/rio-controller) - Role: Co-Developer
+  - [Strobe-Enhanced Microscopy Stage](https://github.com/wenzel-lab/strobe-enhanced-microscopy-stage) - Role: Co-Developer
   - [Open-Source Syringe Pumps](https://github.com/wenzel-lab/syringe-pumps-and-controller/tree/docu-v2) - Role: Co-Developer
+  - [Flow Microscopy Platform](https://github.com/wenzel-lab/flow-microscopy-platform) - Role: Co-Developer
 
 - Open-Source Software:
   - [Droplet AInalysis](https://github.com/wenzel-lab/droplet_AInalysis/tree/droplet-analysis-v0) - Role: Co-Developer
@@ -31,7 +32,7 @@
 - [Gathering for Open Science Hardware Inc.](https://openhardware.science/) (USA)
 - [Peru Node](https://regosh.libres.cc/en/projects/), reGOSH (Peru)
 
-🌱 I’m currently learning **Microfluidics for Microbiome Analysis**
+🌱 I’m currently learning **Microfluidics for Single-Cell Analysis**
 
 👯 I’m looking to collaborate on **interdisciplinary projects**
 
@@ -49,18 +50,4 @@
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/biodotpe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biodotpe" /></a></p><br><br>
--->
-<!--
-**biodotpe/biodotpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
