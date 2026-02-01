@@ -27,11 +27,12 @@
   - [COVID-19 Peru](https://github.com/jincio/COVID_19_PERU) - Personal Collaboration
     
 🐳  I’m currently part of:
-- [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering (Chile)
-- [Quantum Optics Lab](https://fisica.uc.cl/en/laboratorio_inv/quantum-optics-laboratory-1/), Institute of Physics (Chile)
-- [Health Innovation Lab](https://github.com/healthinnovation), Institute of Tropical Medicine Alexander von Humboldt (Peru)
-- [Gathering for Open Science Hardware Inc.](https://openhardware.science/) (USA)
-- [Peru Node](https://regosh.libres.cc/en/projects/), reGOSH (Peru)
+- [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering
+- [Parot Lab](https://parotlab.github.io/en/), Institute for Biological and Medical Engineering
+- [Quantum Optics Lab](https://fisica.uc.cl/en/laboratorio_inv/quantum-optics-laboratory-1/), Institute of Physics
+- [Health Innovation Lab](https://github.com/healthinnovation), Institute of Tropical Medicine Alexander von Humboldt
+- [Gathering for Open Science Hardware Inc.](https://openhardware.science/)
+- [Peru Node](https://regosh.libres.cc/en/projects/), reGOSH
 
 🌱 I’m currently learning **Microfluidics for Single-Cell Analysis**
 
