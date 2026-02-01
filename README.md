@@ -28,6 +28,7 @@
     
 🐳  I’m currently part of:
 - [Wenzel Lab](https://wenzel-lab.github.io/), Institute for Biological and Medical Engineering (Chile)
+- [Quantum Optics Lab](https://fisica.uc.cl/en/laboratorio_inv/quantum-optics-laboratory-1/), Institute of Physics (Chile)
 - [Health Innovation Lab](https://github.com/healthinnovation), Institute of Tropical Medicine Alexander von Humboldt (Peru)
 - [Gathering for Open Science Hardware Inc.](https://openhardware.science/) (USA)
 - [Peru Node](https://regosh.libres.cc/en/projects/), reGOSH (Peru)
